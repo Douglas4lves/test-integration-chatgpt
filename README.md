@@ -1,6 +1,6 @@
 # test-integration-chatgpt
 
-# Sobre o projeto
+## Sobre o teste
 - criado um simples projeto maven para teste de integração de java com ChatGPT
 - ao enviar uma solicitação simples para o ChatGPT, ele deve retornar um slogan gerado por ele.
 
